@@ -26,3 +26,17 @@ p {
 img {
   width: 100%;
 }
+
+.container-2 {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+}
+
+.bloc-1 {
+  background: red;
+}
+
+.bloc-2 {
+  background: rgba(255, 0, 0, 0.438);
+}
